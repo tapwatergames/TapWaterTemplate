@@ -1,0 +1,10 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Evelyn Hill",
+    "classifications": ["godot", "TapWater"],
+    "identity": "TapWater.Godot.Template",
+    "name": "Tap Water Godot Template",
+    "shortName": "TWGodot",
+    "sourceName": "TapWaterTemplate",
+    "preferNameDirectory": true 
+}
